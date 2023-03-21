@@ -34,3 +34,6 @@ a{
 span{
 	margin: 40px 20px 20px 20px;
 }
+.media-icons{
+	display:flex;
+}
